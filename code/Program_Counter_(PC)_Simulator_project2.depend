@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1783098305 source:c:\users\public\downloads\it 400 level second semester\second face\c programming during the second phase of the it\fri 3rd july\program_counter_(pc)_simulator_project2\main.c
+	<stdio.h>
+	<unistd.h>
+
